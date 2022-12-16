@@ -89,7 +89,6 @@ var finances = [
 
 
 let noOfMonths = finances.length;
-console.log(noOfMonths);
 let netTotalProfits = 0;
 let averageChange;
 let totalAverage = 0;
